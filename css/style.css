@@ -1,0 +1,29 @@
+body {
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+input[type="radio"] {
+    width: 20px;
+    height: 35px;
+}
+
+.notification {
+    width: 500px;
+}
+
+.col-2 {
+    width: 12%;
+}
+
+.col-4 {
+    width: 27%;
+}
+
+.col-5 {
+    width: 35%;
+}
+
+.container {
+    margin-left: 20px;
+}
